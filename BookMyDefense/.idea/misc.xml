@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/University/Mobile App Development/BookMyDefense/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/University/Mobile App Development/BookMyDefense/app/src/main/res/drawable/ic_baseline_book_online_24.xml" value="0.14635416666666667" />
+        <entry key="..\:/University/Mobile App Development/BookMyDefense/app/src/main/res/drawable/ic_baseline_calendar_today_24.xml" value="0.14635416666666667" />
+        <entry key="..\:/University/Mobile App Development/BookMyDefense/app/src/main/res/drawable/ic_baseline_cancel_24.xml" value="0.14635416666666667" />
+        <entry key="..\:/University/Mobile App Development/BookMyDefense/app/src/main/res/drawable/ic_baseline_check_24.xml" value="0.14635416666666667" />
+        <entry key="..\:/University/Mobile App Development/BookMyDefense/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.14635416666666667" />
+        <entry key="..\:/University/Mobile App Development/BookMyDefense/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.14635416666666667" />
+        <entry key="..\:/University/Mobile App Development/BookMyDefense/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/University/Mobile App Development/BookMyDefense/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.14635416666666667" />
+        <entry key="..\:/University/Mobile App Development/BookMyDefense/app/src/main/res/drawable/ic_princess_sumaya_university_for_technology.xml" value="0.14635416666666667" />
+        <entry key="..\:/University/Mobile App Development/BookMyDefense/app/src/main/res/layout/activity_cancel_defense.xml" value="0.264" />
+        <entry key="..\:/University/Mobile App Development/BookMyDefense/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/University/Mobile App Development/BookMyDefense/app/src/main/res/layout/add_defense_activity.xml" value="0.264" />
+        <entry key="..\:/University/Mobile App Development/BookMyDefense/app/src/main/res/layout/cancel_defense.xml" value="0.25416666666666665" />
+        <entry key="..\:/University/Mobile App Development/BookMyDefense/app/src/main/res/layout/fragment_calendar.xml" value="0.25416666666666665" />
+        <entry key="..\:/University/Mobile App Development/BookMyDefense/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14635416666666667" />
+        <entry key="..\:/University/Mobile App Development/BookMyDefense/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.14635416666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
