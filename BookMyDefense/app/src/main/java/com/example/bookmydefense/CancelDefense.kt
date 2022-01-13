@@ -70,6 +70,7 @@ class CancelDefense : AppCompatActivity() , DatePickerDialog.OnDateSetListener, 
             val x:Int = contentResolver.delete(DefensesProvider.CONTENT_URI,
                          "DATE = ? AND TIME = ? AND ROOM = ?",
                                 listOf<String>(regDate, regHour, spinnerFlag).toTypedArray())
+            finish()
         }
     }
 
